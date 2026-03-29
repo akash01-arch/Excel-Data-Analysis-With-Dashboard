@@ -33,5 +33,5 @@ The raw dataset contained several inconsistencies that required advanced ETL (Ex
 3. Use the Slicers on the left to filter by Year, Weather, or Road Type.
 
 ---
-**Author:** [Akash More]  
+**Author:** Akash More 
 **Tools:** Excel | Power Query | Pivot Tables
